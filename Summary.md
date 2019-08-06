@@ -18,6 +18,27 @@
 
 # PG1244+026
 
+# Light curve
+
+[Mrk335(18)][9]
+
+[1H0707-495][10]
+
+
+# PSD
+
+[Mrk335][8]
+
+[1H0707-495][11]
+
+# Energy spectrum
+
+[Mrk335][7]
+
+[1H0707-495][12]
+
+
+
 
 # details
 
@@ -65,3 +86,10 @@
 [4]: https://nbviewer.jupyter.org/github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495%2808-1%29.ipynb
 [5]: https://nbviewer.jupyter.org/github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495%2810-1%29.ipynb
 [6]: https://nbviewer.jupyter.org/github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495%2810-2%29.ipynb
+[7]: https://nbviewer.jupyter.org/github/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/energy%20set.ipynb
+[8]: https://nbviewer.jupyter.org/github/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/PSD%20set%20improved%20%28with%20Poisson%29.ipynb
+[9]: https://nbviewer.jupyter.org/github/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/Light%20curve%20Mrk335%2818%29.ipynb
+[10]: https://nbviewer.jupyter.org/github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Light%20curve%201H0707-495.ipynb
+[11]: https://nbviewer.jupyter.org/github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/PSD%201H0707-495.ipynb
+[12]: https://nbviewer.jupyter.org/github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Energy%201H0707-495.ipynb
+
