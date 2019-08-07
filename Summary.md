@@ -18,6 +18,8 @@
 
 # Bayesian test PG1244+026
 
+[2011][18]
+
 [2014(2)][16]
 
 [2015][17]
@@ -108,4 +110,5 @@
 [15]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/PG1244%2B026/Energy%20PG1244%2B026.ipynb
 [16]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/PG1244%2B026/Bayesian%20test%20PG1244%2B026(14-2).ipynb
 [17]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/PG1244%2B026/Bayesian%20test%20PG1244%2B026(15).ipynb
+[18]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/PG1244%2B026/Bayesian%20test%20PG1244%2B026(11).ipynb
 
