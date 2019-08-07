@@ -96,18 +96,18 @@
 
 
 
-[1]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/Bayesian%20test%20iminuit%2006.ipynb
-[2]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/Bayesian%20test%20iminuit%20091.ipynb
-[3]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/Bayesian%20test%20iminuit%20092.ipynb
-[4]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495%2808-1%29.ipynb
-[5]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495%2810-1%29.ipynb
-[6]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495%2810-2%29.ipynb
-[7]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/energy%20set.ipynb
-[8]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/PSD%20set%20improved%20%28with%20Poisson%29.ipynb
-[9]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/Light%20curve%20Mrk335%2818%29.ipynb
-[10]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Light%20curve%201H0707-495.ipynb
-[11]: https:///github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/PSD%201H0707-495.ipynb
-[12]: https://github/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Energy%201H0707-495.ipynb
+[1]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/Bayesian%20test%20iminuit%2006.ipynb
+[2]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/Bayesian%20test%20iminuit%20091.ipynb
+[3]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/Bayesian%20test%20iminuit%20092.ipynb
+[4]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495(08-1).ipynb
+[5]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495(10-1).ipynb
+[6]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495(10-2).ipynb
+[7]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/energy%20set.ipynb
+[8]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/PSD%20set%20improved%20(with%20Poisson).ipynb
+[9]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/Mrk335/Light%20curve%20Mrk335(18).ipynb
+[10]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Light%20curve%201H0707-495.ipynb
+[11]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/PSD%201H0707-495.ipynb
+[12]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Energy%201H0707-495.ipynb
 [13]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/PG1244%2B026/Light%20curve%20PG1244%2B026.ipynb
 [14]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/PG1244%2B026/PSD%20PG1244%2B026.ipynb
 [15]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/PG1244%2B026/Energy%20PG1244%2B026.ipynb
