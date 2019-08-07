@@ -1,4 +1,4 @@
-# Light curve
+# 01. Light curve
 
 [Mrk335(18)][9]
 
@@ -7,7 +7,7 @@
 [PG1244+026][13]
 
 
-# PSD
+# 02. PSD
 
 [Mrk335][8]
 
@@ -16,7 +16,7 @@
 [PG1244+026][14]
 
 
-# Energy spectrum
+# 03. Energy spectrum
 
 [Mrk335][7]
 
@@ -25,7 +25,7 @@
 [PG1244+026][15]
 
 
-# Bayesian test 
+# 04. Bayesian test 
 
 ## Mrk 335
 
@@ -56,7 +56,7 @@
 
 
 
-# details
+# 0*. details
 
 ## Mrk335
   
