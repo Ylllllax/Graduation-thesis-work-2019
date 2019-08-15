@@ -44,6 +44,8 @@
 
 [2008(1)][4]
 
+[2008(4)][21]
+
 [2010(1)][5]
 
 [2010(2)][6]
@@ -124,3 +126,4 @@
 [18]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/PG1244%2B026/Bayesian%20test%20PG1244%2B026(11).ipynb
 [19]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/PSD%20sum.ipynb
 [20]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/Energy%20sum.ipynb
+[21]: https://github.com/Ylllllax/Graduation-thesis-work-2019/blob/master/1H0707-495/Bayesian%20test%201H0707-495(08-4).ipynb
